@@ -5,7 +5,6 @@ To get started:
 - Maven installed and active, using said Java 17
 
 Run:
-
 ´´´
 mvn clean install
 ´´´
