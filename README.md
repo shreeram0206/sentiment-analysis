@@ -4,7 +4,7 @@ To get started:
 - Java 17, or update the pom.xml accordingly (and change the code)
 - Maven installed and active, using said Java 17
 
-Run:
+## Run:
 
 ´´´
 mvn clean install
@@ -12,9 +12,9 @@ mvn clean install
 And then run the App.java program.
 ´´´
 
-Model Prediction Results:
+## Model Prediction Results:
 
-Neutral sentiments:
+## Neutral sentiments:
 
 SentimentRecord[name=Neutral, value=2, sentence=You've given me a lot to think.] 
 
@@ -24,7 +24,7 @@ SentimentRecord[name=Neutral, value=2, sentence=Please Increase the font size.]
 
 SentimentRecord[name=Neutral, value=2, sentence=Hello how can we connect headset on online server ?]]
 
-Negative sentiments:
+## Negative sentiments:
 
 SentimentRecord[name=Negative, value=1, sentence=I do not like Pomodoro.]
 
@@ -34,7 +34,7 @@ SentimentRecord[name=Negative, value=1, sentence=I know there are ways to avoid 
 
 SentimentRecord[name=Negative, value=1, sentence=Did not use to feel like this, it only started in my 50s.]
 
-Positive sentiments:
+## Positive sentiments:
 
 SentimentRecord[name=Positive, value=3, sentence=I have been using Tabnine for some time and love it.]
 
