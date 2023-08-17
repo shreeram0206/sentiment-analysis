@@ -24,7 +24,7 @@ SentimentRecord[name=Neutral, value=2, sentence=Hello how can we connect headset
 
 Negative sentiments:
 
-SentimentRecord[name=Negative, value=1, sentence=When I'm forced to do web frontend stuff, I prefer to use VS Code, though.]
+SentimentRecord[name=Negative, value=1, sentence=I do not like Pomodoro.]
 
 SentimentRecord[name=Negative, value=1, sentence=The IDE is getting annoying with their push to cloud based and collaborative development.]
 
