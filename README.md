@@ -8,6 +8,7 @@ Run:
 
 ´´´
 mvn clean install
+And then run the App.java program.
 ´´´
 
 Model Prediction Results:
